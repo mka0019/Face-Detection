@@ -8,7 +8,7 @@
 	
 	By Andrew Miloslavsky,
 	   Himanshu Tanwar,
-	   Manpreet Singh,
+	   Manpreet Kaur,
 	   Yulia Emelyanova,
 	   Jaber Janet
 */
